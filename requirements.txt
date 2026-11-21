@@ -1,0 +1,5 @@
+# MyBot ATK GENERATOR - Dependencies
+# Install: pip install -r requirements.txt
+
+PySide6>=6.6.0
+UPX>=0.1.0  # Optional, for compression (system tool)

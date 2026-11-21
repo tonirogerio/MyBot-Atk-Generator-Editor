@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "attackgen"
+version = "0.3.0"
+description = "MyBot CSV attack script generator - desktop app with embedded HTML/CSS/JS UI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "PySide6>=6.6",
+]
+[project.optional-dependencies]
+dev = ["pytest", "matplotlib"]
+
+[project.scripts]
+attackgen = "attackgen.cli:main"
+attackgen-ui = "attackgen.desktop_app:main"
