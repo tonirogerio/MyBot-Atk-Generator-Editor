@@ -38,3 +38,7 @@ Thumbs.db
 CSV/Attack/*.csv
 templates/*.json
 !templates/.gitkeep
+
+# Local only — do not publish
+FORUM_POST.md
+RELEASE_NOTES.md
