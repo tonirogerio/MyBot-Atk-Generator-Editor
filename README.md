@@ -9,6 +9,7 @@ Create, edit, validate and export CSV attack files — no hand-editing required.
 [![PySide6](https://img.shields.io/badge/PySide6-6.6%2B-green)](https://wiki.qt.io/Qt_for_Python)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](#)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Assistir%20Demonstração-red?logo=youtube)](https://www.youtube.com/watch?v=T6fNtZ3TBnU)
 
 ---
 
@@ -23,6 +24,7 @@ Designed by **Tony R0XX**  ·  Brand **T-R0XX**
 ## 📖 Sumário / Table of Contents
 
 - [Visão Geral / Overview](#-visão-geral--overview)
+- [Demonstração em Vídeo / Video Demo](#-demonstração-em-vídeo--video-demo)
 - [Requisitos / Requirements](#-requisitos--requirements)
 - [Instalação & Execução / Install & Run](#-instalação--execução--install--run)
 - [Interface / UI Walkthrough](#-interface--ui-walkthrough)
@@ -47,6 +49,19 @@ Designed by **Tony R0XX**  ·  Brand **T-R0XX**
 | Validação **em tempo real**, tooltips por campo, canvas com vetores, zoom/pan, undo/redo, copiar/colar/duplicar. | **Real-time validation**, per-field tooltips, canvas with vectors, zoom/pan, undo/redo, copy/paste/duplicate. |
 | Tema escuro, interface em **PT-BR** ou **EN** (botão na toolbar). | Dark theme, UI in **PT-BR** or **EN** (toolbar button). |
 | Salva modelos de usuário em `templates/` (JSON) e exporta CSV para `CSV/Attack/`. | Saves user templates to `templates/` (JSON) and exports CSV to `CSV/Attack/`. |
+
+---
+
+## 🎬 Demonstração em Vídeo / Video Demo
+
+<div align="center">
+
+[![Assistir no YouTube](https://img.youtube.com/vi/T6fNtZ3TBnU/maxresdefault.jpg)](https://www.youtube.com/watch?v=T6fNtZ3TBnU)
+
+**▶️ [Assistir demonstração no YouTube](https://www.youtube.com/watch?v=T6fNtZ3TBnU)**  
+**▶️ [Watch the demo on YouTube](https://www.youtube.com/watch?v=T6fNtZ3TBnU)**
+
+</div>
 
 ---
 
